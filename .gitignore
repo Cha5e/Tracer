@@ -1,5 +1,7 @@
 # pycharm
 **/.idea/
+.idea
+.idea/
 .DS_Store
 
 __pycache__/
@@ -14,3 +16,5 @@ media/
 # database migrations
 */migrations/.*py
 !*migrations/__init__.py
+
+.gitignore
