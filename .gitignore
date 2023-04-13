@@ -7,7 +7,7 @@ __pycache__/
 *$py.class
 
 # django stuff:
-local_settings.py
+Demo/local_settings.py
 *.sqlite3
 media/
 
